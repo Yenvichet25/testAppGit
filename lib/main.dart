@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
       backgroundColor: Colors.red,
       body: Container(
         width: size.width,
-        color: Colors.blue,
+        color: Colors.orange,
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [Text("I want to kill you")],
