@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
         color: Colors.orange,
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [Text("I want to kill you")],
+          children: [Text("I want to kill yous")],
         ),
       ),
     );
